@@ -3,6 +3,11 @@ body {
   color: #f8f9fa;
 }
 
+.logo-icon {
+  width: 40px;
+  height: 40px;
+}
+
 .card {
   background-color: #1e1e1e;
   border: 1px solid #2c2c2c;
