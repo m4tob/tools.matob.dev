@@ -1,0 +1,44 @@
+body {
+  background-color: #121212;
+  color: #f8f9fa;
+}
+
+.card {
+  background-color: #1e1e1e;
+  border: 1px solid #2c2c2c;
+}
+
+.card-title,
+.card-text {
+  color: #f8f9fa;
+}
+
+.tool-card {
+  transition: transform 0.2s;
+}
+
+.tool-card:hover {
+  transform: scale(1.02);
+}
+
+.tool-icon {
+  font-size: 2.5rem;
+  color: #0d6efd;
+}
+
+a.text-decoration-none {
+  color: inherit;
+}
+
+a.text-decoration-none:hover {
+  text-decoration: none;
+  color: #0d6efd;
+}
+
+footer {
+  color: #888;
+}
+
+.footer-text {
+  color: #f8f9fa;
+}
