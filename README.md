@@ -1,6 +1,6 @@
 # 🛠️ Tools by Matob
 
-A curated collection of handy web-based utilities — everything from file compression to visual design resources. Built for speed, simplicity, and utility.  
+A curated collection of handy web-based tools — everything from file compression to visual design resources. Built for speed, simplicity, and utility.  
 Visit it live: [tools.matob.dev](https://tools.matob.dev)
 
 ## 🚀 What is this?
